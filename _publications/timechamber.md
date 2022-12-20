@@ -6,8 +6,7 @@ excerpt: 'TimeChamber is a large scale self-play framework running on parallel s
 date: 2022-09-30
 venue: 'Github'
 # paperurl: 'https://github.com/inspirai/TimeChamber'
-citation: "Huang Ziming, Ziyi Liu, Wu Yutong, Flood Sung."[Githtub](https://github.com/inspirai/TimeChamber)
-# <a style='color: black;' href='https://github.com/inspirai/TimeChamber'>Github"
+citation: "Huang Ziming, Ziyi Liu, Wu Yutong, Flood Sung. TimeChamber: A Massively Parallel Large Scale Self-Play Framework. https://github.com/inspirai/TimeChamber"
 
 ---
 
