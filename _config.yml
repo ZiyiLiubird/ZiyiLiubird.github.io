@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ziyi Liu"
   avatar           : "zyliu.png"
-  bio              : "Master student at NanKai University, <a style='color: black;' href='https://aien.nankai.edu.cn/'>College of Artificial Intelligence"
+  bio              : "Master student at <a style='color: black;' href='https://en.nankai.edu.cn/'>NanKai University, <a style='color: black;' href='https://aien.nankai.edu.cn/'>College of Artificial Intelligence"
   location         : "Tianjin, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NQ3B3QMAAAAJ"
-  email            :
+  email            :  "liuzy@mail.nankai.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
