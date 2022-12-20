@@ -3,7 +3,7 @@ title: "TimeChamber: A Massively Parallel Large Scale Self-Play Framework"
 collection: publications
 permalink: /publication/timechamber
 excerpt: 'TimeChamber is a large scale self-play framework running on parallel simulation. Running self-play algorithms always need lots of hardware resources, especially on 3D physically simulated environments. We provide a self-play framework that can achieve fast training and evaluation with ONLY ONE GPU.'
-date: 2022
+date: 2022-09-30
 # venue: 'IEEE RCAR'
 paperurl: 'https://github.com/inspirai/TimeChamber'
 citation: 'Flood Sung Huang Ziming, Ziyi Liu, Wu Yutong.'
