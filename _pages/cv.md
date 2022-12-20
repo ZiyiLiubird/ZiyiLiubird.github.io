@@ -38,7 +38,7 @@ Award
 * Gongneng Scholarship of Nankai University, 2022.
 * Gongneng Scholarship of Nankai University, 2021.
 * Excellent Graduate of Wuhan University of Technology， 2021.
-* First-Class Academic Scholarship of Wuhan University of Technology, 2020
+* First-Class Academic Scholarship of Wuhan University of Technology, 2020.
 * Meritorious Winner in the Mathematical Contest in Modeling, 2019.
 
 Publications
