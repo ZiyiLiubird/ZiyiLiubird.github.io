@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Wuhan, [Wuhan University of Technology](http://english.whut.edu.cn/), 2021
-* M.S. in Tianjin, [NanKai University](https://en.nankai.edu.cn/), 2024
-(expected)
+* B.S. in Information and Computing Science from [Wuhan University of Technology](http://english.whut.edu.cn/), Wuhan, China, 2021.
+* M.S. in Artifical Intelligence from [NanKai University](https://en.nankai.edu.cn/), Tianjin, China, 2024. (expected)
 
 Work experience
 ======
