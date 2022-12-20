@@ -28,6 +28,10 @@ Work experience
   * [Horizon Robotics](https://en.horizon.ai/)
   * Research direction: Behavior Prediction in Self-Driving System.
 
+* 2020-08-17~2020-09-07: ByteDance ByteCamp
+  * [ByteDance](https://www.bytedance.com/en/)
+  * Research direction: Recommendation Algorithm.
+
 * 2019-07-19~2019-08-15: Reinforcement Learning Algorithm Intern
   * [LAMDA, NanJing University](http://www.lamda.nju.edu.cn/MainPage.ashx)
   * Research direction: Reinforcement Learning in Self-Driving System .
