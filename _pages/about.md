@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-	I'm currently a master's student at NanKai University (NKU), Tianjin, China, advised by Professor Yongchun Fang. Before that, I received my bachelor’s degree from UC Berkeley, advised by Professor Sergey Levine and Professor Pieter Abbeel. Prior to that, I received an M.Sc from the University of British Columbia, advised by Professor Michiel van de Panne. My work lies in the intersection between computer graphics and machine learning, with a focus on reinforcement learning for motion control of simulated characters. I have previously worked for Sony, Google Brain, OpenAI, Adobe Research, Disney Research, Microsoft (343 Industries), and Capcom.
+I'm currently a master's student at NanKai University (NKU), Tianjin, China, advised by Professor Yongchun Fang. Before that, I received my bachelor’s degree from UC Berkeley, advised by Professor Sergey Levine and Professor Pieter Abbeel. Prior to that, I received an M.Sc from the University of British Columbia, advised by Professor Michiel van de Panne. My work lies in the intersection between computer graphics and machine learning, with a focus on reinforcement learning for motion control of simulated characters. I have previously worked for Sony, Google Brain, OpenAI, Adobe Research, Disney Research, Microsoft (343 Industries), and Capcom.
 
 A data-driven personal website
 ======
