@@ -20,7 +20,7 @@ TimeChamber is a large scale self-play framework running on parallel simulation.
 - Prioritized Fictitious Self-Play Benchmark: We implement a classic PPO self-play algorithm on top of rl_games, with a prioritized player pool to avoid cycles and improve the diversity of training policy.
 
 <div align=center>
-<img src="images/../../images/algorithm.jpg" align="center" width="600"/>
+<img src="https://ziyiliubird.github.io/images/algorithm.jpg" align="center" width="600"/>
 </div> 
 
 - **Competitive Multi-Agent Tasks**: Inspired by [OpenAI RoboSumo](https://github.com/openai/robosumo), we introduce two
