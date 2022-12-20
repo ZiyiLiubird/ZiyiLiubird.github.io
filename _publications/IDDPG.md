@@ -6,7 +6,7 @@ excerpt: 'Model-free deep reinforcement learning algorithms have been successful
 date: 2022-04-04
 venue: '2022 International Conference on Intelligent Robotics and Applications'
 # paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-13822-5_8'
-citation: "Liu Z, Li Z, Cao Q, et al. Celebrating Robustness in Efficient Off-Policy Meta-Reinforcement Learning[C]//2022 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2022: 499-504."
+citation: "Li Z, Xiao C, Liu Z, et al. Multi-robot Cooperation Learning Based on Powell Deep Deterministic Policy Gradient[C]//International Conference on Intelligent Robotics and Applications. Springer, Cham, 2022: 77-87."
 ---
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-13822-5_8)
