@@ -6,7 +6,7 @@ excerpt: 'Deep reinforcement learning algorithms can enable agents to learn poli
 date: 2022-07-22
 venue: '2022 IEEE International Conference on Real-time Computing and Robotics (RCAR)'
 # paperurl: 'https://ieeexplore.ieee.org/abstract/document/9872291'
-citation: 'Ziyi Liu, Zongyuan Li, Qianqian Cao, Yuan Wan, Xian Guo, 2022 in RCAR.'
+citation: 'Liu Z, Li Z, Cao Q, et al. Celebrating Robustness in Efficient Off-Policy Meta-Reinforcement Learning[C]//2022 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE, 2022: 499-504.'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/9872291)

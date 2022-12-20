@@ -19,6 +19,14 @@ TimeChamber is a large scale self-play framework running on parallel simulation.
 - Parallel Evaluation: TimeChamber can fast calculate dozens of policies' ELO rating(represent their combat power). It also supports multi-player ELO calculations by multi-elo. Inspired by Vectorization techniques for fast population-based training, we leverage the vectorized models to evaluate different policy in parallel.
 - Prioritized Fictitious Self-Play Benchmark: We implement a classic PPO self-play algorithm on top of rl_games, with a prioritized player pool to avoid cycles and improve the diversity of training policy.
 
+<div align=center>
+<img src="algorithm.jpg" align="center" width="600"/>
+</div> 
+
+- **Competitive Multi-Agent Tasks**: Inspired by [OpenAI RoboSumo](https://github.com/openai/robosumo), we introduce two
+  competitive multi-agent tasks(e.g.,Ant Sumo,Ant
+  Battle) as examples.
+
 Recommended citation:
 
 @misc{InspirAI,
